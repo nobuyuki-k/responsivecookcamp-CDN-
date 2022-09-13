@@ -108,7 +108,7 @@ header .nav-item:first-child {
   }
 }
 
-/* ?????????PC?‰????*/
+/* レスポンシブ対応*/
 @media (min-width: 992px) {
  .contents {
     margin: 30px 15px;
